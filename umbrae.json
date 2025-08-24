@@ -5,7 +5,7 @@
     "Punchline": "Please look forward into it :)",
     "Description": "Trust Poshi-Y, he got stylish moustache!",
     "InternalName": "mareSynchronos",
-    "AssemblyVersion": "1.11.0.0",
+    "AssemblyVersion": "1.01",
     "RepoUrl": "https://github.com/TeamUmbrae/Umbrae",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
@@ -20,8 +20,8 @@
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
 
-    "DownloadLinkInstall": "https://github.com/TeamUmbrae/Umbrae/releases/download/release/latest.zip",
-    "DownloadLinkUpdate":  "https://github.com/TeamUmbrae/Umbrae/releases/download/release/latest.zip",
-    "DownloadLinkTesting": "https://github.com/TeamUmbrae/Umbrae/releases/download/release/latest.zip"
+    "DownloadLinkInstall": "https://github.com/TeamUmbrae/Umbrae/releases/download/Release/latest.zip",
+    "DownloadLinkUpdate":  "https://github.com/TeamUmbrae/Umbrae/releases/download/Release/latest.zip",
+    "DownloadLinkTesting": "https://github.com/TeamUmbrae/Umbrae/releases/download/Release/latest.zip"
   }
 ]
