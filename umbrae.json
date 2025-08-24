@@ -1,0 +1,27 @@
+[
+  {
+    "Author": "Team Umbrae and Eblanserver",
+    "Name": "Umbrae [Re]:Synchronos",
+    "Punchline": "Please look forward into it :)",
+    "Description": "Trust Poshi-Y, he got stylish moustache!",
+    "InternalName": "umbraeSynchronos",
+    "AssemblyVersion": "1.11.0.0",
+    "RepoUrl": "https://github.com/TeamUmbrae/Umbrae",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 13,
+
+    "IconUrl": "https://raw.githubusercontent.com/TeamUmbrae/Umbrae/main/logo.png",
+
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "AcceptsFeedback": true,
+
+    "DownloadLinkInstall": "https://github.com/TeamUmbrae/Umbrae/releases/download/release/latest.zip",
+    "DownloadLinkUpdate":  "https://github.com/TeamUmbrae/Umbrae/releases/download/release/latest.zip",
+    "DownloadLinkTesting": "https://github.com/TeamUmbrae/Umbrae/releases/download/release/latest.zip"
+  }
+]
