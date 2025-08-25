@@ -20,8 +20,8 @@
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
 
-    "DownloadLinkInstall": "https://github.com/TeamUmbrae/Umbrae/releases/download/Release/latest.zip",
-    "DownloadLinkUpdate":  "https://github.com/TeamUmbrae/Umbrae/releases/download/Release/latest.zip",
-    "DownloadLinkTesting": "https://github.com/TeamUmbrae/Umbrae/releases/download/Release/latest.zip"
+    "DownloadLinkInstall": "https://github.com/TeamUmbrae/Umbrae/releases/download/1.11.1/latest.zip",
+    "DownloadLinkUpdate":  "https://github.com/TeamUmbrae/Umbrae/releases/download/1.11.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/TeamUmbrae/Umbrae/releases/download/1.11.1/latest.zip"
   }
 ]
