@@ -20,10 +20,10 @@
     "IsTestingExclusive": true,
     "AcceptsFeedback": true,
 
-    "DownloadLinkInstall": "https://github.com/TeamUmbrae/Umbrae/releases/download/1.11.5/latest.zip",
+    "DownloadLinkInstall": "https://github.com/TeamUmbrae/Umbrae/releases/download/1.11.6-beta.1/latest.zip",
     "DownloadLinkUpdate":  "https://github.com/TeamUmbrae/Umbrae/releases/download/1.11.6-beta.1/latest.zip",
     "DownloadLinkTesting": "https://github.com/TeamUmbrae/Umbrae/releases/download/1.11.6-beta.1/latest.zip",
-    "Changelog": "## What's Changed\r\n 1.11.5 - New PetNicknames and Moodles API Support! \n 1.11.6-beta.1 - Moodles fix and Color Override feature!"
+    "Changelog": "## What's Changed\r\n 1.11.6-beta.1 - Moodles fix and Color Override feature!"
     
   }
 ]
