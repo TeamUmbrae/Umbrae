@@ -5,7 +5,7 @@
     "Punchline": "Please look forward into it :)",
     "Description": "Trust Poshi-Y, he got stylish moustache!",
     "InternalName": "umbraeReSynchronos",
-    "AssemblyVersion": "1.11.5",
+    "AssemblyVersion": "1.11.6",
     "RepoUrl": "https://github.com/TeamUmbrae/Umbrae",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
@@ -20,8 +20,8 @@
     "IsTestingExclusive": true,
     "AcceptsFeedback": true,
 
-    "DownloadLinkInstall": "https://github.com/TeamUmbrae/Umbrae/releases/download/1.11.6-beta.1/latest.zip",
-    "DownloadLinkUpdate":  "https://github.com/TeamUmbrae/Umbrae/releases/download/1.11.6-beta.1/latest.zip",
+    "DownloadLinkInstall": "https://github.com/TeamUmbrae/Umbrae/releases/download/1.11.5/latest.zip",
+    "DownloadLinkUpdate":  "https://github.com/TeamUmbrae/Umbrae/releases/download/1.11.5/latest.zip",
     "DownloadLinkTesting": "https://github.com/TeamUmbrae/Umbrae/releases/download/1.11.6-beta.1/latest.zip",
     "Changelog": "## What's Changed\r\n 1.11.6-beta.1 - Moodles fix and Color Override feature!"
     
