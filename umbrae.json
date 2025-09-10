@@ -10,7 +10,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
 
-    "IconUrl": "https://raw.githubusercontent.com/TeamUmbrae/Umbrae/main/umbraelogo.png",
+    "IconUrl": "https://raw.githubusercontent.com/TeamUmbrae/Umbrae/main/logo.png",
 
     "LoadRequiredState": 0,
     "LoadSync": false,
