@@ -23,7 +23,7 @@
 
     "DownloadLinkInstall": "https://github.com/TeamUmbrae/Umbrae/releases/download/1.11.7/latest.zip",
     "DownloadLinkUpdate":  "https://github.com/TeamUmbrae/Umbrae/releases/download/1.11.7/latest.zip",
-    "DownloadLinkTesting": "https://github.com/TeamUmbrae/Umbrae/releases/download/1.11.8/latest.zip",
+    "DownloadLinkTesting": "https://github.com/TeamUmbrae/Umbrae/releases/download/1.11.8-beta.1/latest.zip",
     "Changelog": "## What's Changed\r\n 1.11.7 - Moodles V2 Fix, color override for names and Pair UI (plus special ultra top secret mode in Debug Settings)!\n 1.11.8-beta - Colors, Settings overhaul rework, pin option, self-threshold warning and Syncshell Admin functionality rework!"
     
   }
