@@ -11,9 +11,9 @@
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "IconUrl": "https://raw.githubusercontent.com/TeamUmbrae/Umbrae/main/logo.png",
-    "DownloadLinkInstall": "https://github.com/TeamUmbrae/Umbrae/releases/download/1.12/latest.zip",
-    "DownloadLinkUpdate":  "https://github.com/TeamUmbrae/Umbrae/releases/download/1.12/latest.zip",
-    "Changelog": "## What's Changed\r\n 1.12.0 - A lot of optimizations of the plugin and some cool features with menu rework!"
+    "DownloadLinkInstall": "https://github.com/TeamUmbrae/Umbrae/releases/download/1.12.1/latest.zip",
+    "DownloadLinkUpdate":  "https://github.com/TeamUmbrae/Umbrae/releases/download/1.12.1/latest.zip",
+    "Changelog": "## What's Changed\r\n 1.12.1 - Temporary merged fix for File Cache system by Lightless Dev Team"
     
   }
 ]
