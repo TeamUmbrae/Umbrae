@@ -13,7 +13,7 @@
     "TestingDalamudApiLevel": 13,
     "IconUrl": "https://raw.githubusercontent.com/TeamUmbrae/Umbrae/main/logo.png",
     "DownloadLinkInstall": "https://github.com/TeamUmbrae/Umbrae/releases/download/1.12.2/latest.zip",
-    "DownloadLinkUpdate":  "https://github.com/TeamUmbrae/Umbrae/releases/download/1.12.2/latest.zipp",
+    "DownloadLinkUpdate":  "https://github.com/TeamUmbrae/Umbrae/releases/download/1.12.2/latest.zip",
     "DownloadLinkTesting": "https://github.com/TeamUmbrae/Umbrae/releases/download/1.13-beta.1/latest.zip",
     "Changelog": "## What's Changed\r\n 1.12.2 - Fixes for Files Upload Manager\n 1.13-beta.1 - Download notifications and sequential download!"
     
