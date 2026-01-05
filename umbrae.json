@@ -5,17 +5,17 @@
     "InternalName": "umbraeReSynchronos",
     "Description": "Trust Poshi-Y, he got stylish moustache!",
     "Punchline": "Please look forward into it :)",
-    "AssemblyVersion": "1.15",
+    "AssemblyVersion": "1.15.1",
     "TestingAssemblyVersion": "1.13.6",
     "RepoUrl": "https://github.com/TeamUmbrae/Umbrae",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "TestingDalamudApiLevel": 13,
     "IconUrl": "https://raw.githubusercontent.com/TeamUmbrae/Umbrae/main/logo.png",
-    "DownloadLinkInstall": "https://github.com/TeamUmbrae/Umbrae/releases/download/1.15/latest.zip",
-    "DownloadLinkUpdate":  "https://github.com/TeamUmbrae/Umbrae/releases/download/1.15/latest.zip",
+    "DownloadLinkInstall": "https://github.com/TeamUmbrae/Umbrae/releases/download/1.15.1/latest.zip",
+    "DownloadLinkUpdate":  "https://github.com/TeamUmbrae/Umbrae/releases/download/1.15.1/latest.zip",
     "DownloadLinkTesting": "https://github.com/TeamUmbrae/Umbrae/releases/download/1.13-beta.6/latest.zip",
-    "Changelog": "## What's Changed\r\n 1.15 - Audio detection feature and Moodles's caller update! Team Umbrae wishes you a Merry Christmas and happy holidays!"
+    "Changelog": "## What's Changed\r\n 1.15.1 - User information in Pair UI!"
     
   }
 ]
